@@ -14,5 +14,11 @@ styleUrls:['property-card.component.css']
 }
 )
 export class ProperyCardComponent{
+  Property :any ={
+    "Id" : 1,
+    "Type": "House",
+    "Name": "Rocks House",
+    "Price":12000
 
+  }
 }
